@@ -1,0 +1,63 @@
+.custom-header{
+  background-color: rgba(255, 255, 255, 0.09) !important;
+
+}
+.custom-banner{
+  position: relative;
+  width: 170px;
+  top: 7px;
+  /*padding-left: 50px !important;*/
+  padding-right: 50px !important;
+  background-image: url('../images/index_logo.png');
+  -moz-background-size:100% 100%; /* 老版本的 Firefox */
+background-size:100% 100%;
+background-repeat:no-repeat;
+font-size: 12pt
+}
+.custom-nav-bar-item{
+
+  position: relative;
+  margin-bottom: 0px !important;
+
+}
+.custom-nav-bar-item a{
+  font-size: 12pt !important;
+  text-align: center !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  padding-bottom: 20px !important;
+  padding-top: 20px !important;
+  font-weight: bolder;
+  color: #271d1b !important;
+}
+.custom-nav-bar-long-item a{
+  font-size: 12pt !important;
+  text-align: center !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  padding-bottom: 20px !important;
+  padding-top: 20px !important;
+  font-weight: bolder;
+  color: #261e1b !important;
+}
+.left-blank{
+  width: 5%;
+}
+.drop-item{
+  width: 75pt;
+  text-align: center;
+}
+.menu-item{
+  min-width: 75pt !important;
+  width: 75pt;
+  font-size: 12pt;
+  text-align: center;
+}
+.title-little{
+  text-align: center;
+  color: rgba(70, 108, 118, 1);
+}
+.index_item_block{
+  color: rgba(70, 108, 118, 1);
+  display: inline;
+}
